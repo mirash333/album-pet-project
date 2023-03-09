@@ -1,0 +1,78 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Elsie Price",
+      "id": 3
+    },
+    {
+      "name": "Harold Strosin",
+      "id": 4
+    },
+    {
+      "name": "Mr. Juana King",
+      "id": 5
+    },
+    {
+      "name": "Ella Mante",
+      "id": 6
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Luxurious Rubber Chips",
+      "id": 17
+    },
+    {
+      "userId": 1,
+      "title": "Elegant Bronze Ball",
+      "id": 19
+    },
+    {
+      "userId": 1,
+      "title": "Ergonomic Steel Chair",
+      "id": 21
+    },
+    {
+      "userId": 3,
+      "title": "Fantastic Concrete Ball",
+      "id": 22
+    },
+    {
+      "userId": 6,
+      "title": "Small Granite Chair",
+      "id": 23
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 22,
+      "url": "https://loremflickr.com/150/150/abstract?lock=58370",
+      "id": 2
+    },
+    {
+      "albumId": 17,
+      "url": "https://loremflickr.com/150/150/abstract?lock=89214",
+      "id": 3
+    },
+    {
+      "albumId": 17,
+      "url": "https://loremflickr.com/150/150/abstract?lock=19237",
+      "id": 4
+    },
+    {
+      "albumId": 21,
+      "url": "https://loremflickr.com/150/150/abstract?lock=56930",
+      "id": 5
+    },
+    {
+      "albumId": 23,
+      "url": "https://loremflickr.com/150/150/abstract?lock=12267",
+      "id": 6
+    }
+  ]
+}
